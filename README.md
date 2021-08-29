@@ -4,7 +4,6 @@
 
 ✨ I'm trying to skill-up in cloud using Azure.
 
-<!--
 ✨ Checkout my Azure badges below -
 
  <a href="https://www.credly.com/badges/287ccc6b-a5fa-4253-a970-14ed19efb012/public_url">
@@ -26,7 +25,6 @@
 <a href="https://www.credly.com/earner/earned/badge/6b136cb8-d3f4-4142-b6bc-d9846a5bf69d">
 <img align="center" alt="Azure IoT Developer Speciality" height ="120" width="120px" src="https://raw.githubusercontent.com/greatvivek11/greatvivek11/master/azure-iot-speciality-240x240.png"></img>
 </a>
--->
 
 My profile hits so far 😅 ![Profile View Counter](https://komarev.com/ghpvc/?username=greatvivek11)
 
