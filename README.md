@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!👋 I'm <a href="https://www.vivekkaushik.in">Vivek Kaushik</a> 🙋‍♂</h1>
 
-✨ I'm a software developer at Infosys having almost 3 years of experience in building backend, web, cloud IoT and mobility technologies. 
+✨ I'm a software developer at Deloitte having 5+ years of experience in building Fullstack web and cloud applications.
 
 ✨ I'm trying to skill-up in cloud using Azure.
 
