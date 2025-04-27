@@ -1,6 +1,6 @@
 <h1 align="center"> Hey! 👋 I'm <a href="https://www.vivekkaushik.in">Vivek Kaushik</a> 🙋‍♂</h1>
 
-✨ I'm a Fullstack Software Consultant at Deloitte with 5.5+ years of dev experience in Web, Cloud, Mobile and IoT.
+✨ I'm a Fullstack Software Consultant at Deloitte with 6.25+ years of dev experience in Web, Cloud, Mobile and IoT.
 
 ✨ Checkout my [Next14-Notion-CMS](https://github.com/greatvivek11/next14-notion-starter) starter repo.
 
